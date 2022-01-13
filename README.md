@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daddycool696
 - 👀 I’m interested in smthing
-- 🌱 I’m currently learning Objective C
+- 🌱 I’m currently learning html
 - 📫 How to reach me- try my email - thessg242@gmail.com or hmu on twitter - @Shreyan14724407.
 - - 💞️ See Ya' Nerds 
 <!---
